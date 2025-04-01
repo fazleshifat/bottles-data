@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Coca-Cola Glass Bottle",
+    "capacity": "250ml",
+    "material": "Glass",
+    "year": 1995,
+    "lifespan": "Indefinite",
+    "holds": "Cold only",
+    "image": "https://example.com/coca-cola-glass-bottle.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pepsi Plastic Bottle",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "year": 2010,
+    "lifespan": "1-2 years",
+    "holds": "Cold only",
+    "image": "https://example.com/pepsi-plastic-bottle.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vintage Milk Bottle",
+    "capacity": "1L",
+    "material": "Glass",
+    "year": 1980,
+    "lifespan": "Indefinite",
+    "holds": "Cold only",
+    "image": "https://example.com/vintage-milk-bottle.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Evian Water Bottle",
+    "capacity": "750ml",
+    "material": "Plastic",
+    "year": 2020,
+    "lifespan": "1-2 years",
+    "holds": "Cold only",
+    "image": "https://example.com/evian-water-bottle.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Thermos Flask",
+    "capacity": "1.5L",
+    "material": "Stainless Steel",
+    "year": 2015,
+    "lifespan": "10-15 years",
+    "holds": "Both hot and cold",
+    "image": "https://example.com/thermos-flask.jpg"
+  }
+]
+
